@@ -1,4 +1,4 @@
-ইস্ত্রি ভাই — Cyclonix Service
+ইস্ত্রি ভাই
 
 Customer website + Admin panel + Supabase integration.
 
